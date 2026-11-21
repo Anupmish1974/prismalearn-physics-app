@@ -1,0 +1,8 @@
+{
+  "name": "PrismaLearn Physics",
+  "description": "Adaptive Class 10 Physics AI Tutor Agent with dynamic learner modeling, interactive concept graph, misconception reasoning trace, spaced repetition, and teacher analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
